@@ -1,0 +1,93 @@
+
+.row-fluid {
+    word-wrap: break-word;  
+}
+
+.section-title {
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.col1 {
+	background-size: cover;
+	height: 25em;
+}
+
+.col2 {
+	background-color: #E9ECEF;
+	height: 25em;
+}
+
+#profile_pic {
+	height: 250px;
+}
+
+.about-me-text {
+	margin-top: 20px;
+}
+
+.container-fluid {
+    padding: 0px;
+}
+
+#jumbo {
+	margin: 0px;
+}
+
+.footer {
+	height: 15px;
+	background-color: #21252;
+}
+.card {
+	padding-bottom: 10px;
+}
+
+.card-title {
+	padding-top: 10px;
+}
+
+.card-col {
+	padding-top: 10px;
+}
+
+.card-img-top {
+	height: 12em;
+	width: 100%;
+	background-size: cover;
+	background-position: 50% 50%;
+}
+
+.card-img-1 {
+	background-image: url("../img/quake_report_front.png");
+}
+
+.card-img-2 {
+	background-image: url("../img/rgb_game_front.png");	
+}
+
+.card-img-3 {
+	background-image: url("../img/rc_car_front.png");	
+}
+
+.card-img-4 {
+	background-image: url("../img/go_find_me_front.png");	
+}
+
+.card-img-5 {
+	background-image: url("../img/ruff_index_front.png");	
+}
+
+.card-img-6 {
+	background-image: url("../img/blah_front.png");	
+}
+
+.card-block {
+	height: 200px;
+	padding-left: 2px;
+	padding-right: 2px;
+}
+
+#profile_div {
+	padding-top: 20px;
+}
+
